@@ -1,5 +1,5 @@
 package classe.produto;
 
-public class Fisico {
+public class Fisico extends Produto {
     
 }

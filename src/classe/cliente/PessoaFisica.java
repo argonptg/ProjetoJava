@@ -1,5 +1,5 @@
 package classe.cliente;
 
-class PessoaFisica {
+public class PessoaFisica extends Cliente {
     
 }

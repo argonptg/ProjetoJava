@@ -1,5 +1,5 @@
 package classe.produto;
 
-public class EBook {
+public class EBook extends Produto {
     
 }

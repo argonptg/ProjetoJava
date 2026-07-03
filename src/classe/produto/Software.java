@@ -1,5 +1,5 @@
 package classe.produto;
 
-public class Software {
+public class Software extends Produto {
     
 }
